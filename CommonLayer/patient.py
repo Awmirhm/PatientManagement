@@ -12,7 +12,7 @@ class Patient:
     national_code = NationalCodeDescriptor(9)
     birthday = BirthdayDescriptor()
     phone_number = PhoneNumerDescriptor()
-    address = LengthDescriptor(6)
+    address = LengthDescriptor(5)
     disease_name = LengthDescriptor(2)
     treating_physician = LengthDescriptor(3)
 
