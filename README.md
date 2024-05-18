@@ -1,6 +1,6 @@
 # This project is a patient management project in the hospital.
 
-## *In this project, in addition to managers, employees can also be managed.*
+## *In this project, in addition to patients, employees can also be managed.*
 
 ### *There are two roles in this application, one is the role of the president and one is the role of the secretary.*
 
